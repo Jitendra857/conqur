@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>J:\AADI\Conqr\Conqr\bin\Release\net5.0\publish\</_PublishTargetUrl>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA/DcgUv6f3UioG+1Mr3sG+AAAAAACAAAAAAAQZgAAAAEAACAAAABSHMA5i/mhStCuSeSMtylFIl+SciWCjgVT57y08rta6QAAAAAOgAAAAAIAACAAAADmL03hENhpx6MFXbKvRDF+CiaTqbrLrMVx6N2rNyPT2SAAAAD2bzZ9KWyp0wyFpK2gegUgPK6VDKu+0dzDhuo7CDqo9EAAAABUeeQ7gqxZZDxXHTMr7FDgqjWP4b0b0NbF7dxVzuttavPS9JuxjMfyUdk1T25AdlaMSE3GJhSv7GDFi1b5VSXW</EncryptedPassword>
+  </PropertyGroup>
+</Project>
